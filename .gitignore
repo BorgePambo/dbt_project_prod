@@ -1,0 +1,5 @@
+.venv/
+.myvenv/
+target/
+dbt_packages/
+logs/
