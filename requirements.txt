@@ -1,2 +1,1 @@
-dbt-core
-dbt-postgres
+astronomer-cosmos
